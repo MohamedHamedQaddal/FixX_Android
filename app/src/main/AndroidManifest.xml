@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.fixx">
+    <!-- added for maps -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FixX">
+        <activity android:name=".LoginScreen.Views.SignUpWithGoogleActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".addExtensionScreen.views.AddJobExtensionActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="portrait"/>
+
+        <receiver
+            android:name=".Support.PushNotificationReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".WorkAddresses.view.AddWorkAddress"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".WorkAddresses.view.MyWorkAddresses"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.notification.NotificationActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".techOrderDetailsScreen.views.ImageFullScreenActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".techOrderDetailsScreen.views.TechViewOrderScreen"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <service
+            android:name=".Support.FirebaseService"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".jobs.views.JobsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.SettingsScreen.TermsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.SettingsScreen.SafetyTipsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.SettingsScreen.AboutUsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.SettingsScreen.HelpActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".takeOrderScreen.views.CustomizeOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.SettingsScreen.ProfileActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationBar.NavigationBarActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".JobDetailsDisplay.views.JobDetailsDisplayActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".inAppChatScreens.views.NewMessageActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NavigationBar.NavigationBarActivity" />
+        </activity>
+        <activity
+            android:name=".inAppChatScreens.views.ChatLogActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".inAppChatScreens.views.NewMessageActivity" />
+        </activity>
+        <activity android:name=".technicianProfileScreen.view.TechnicianProfileActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".LoginScreen.Views.SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Addresses.view.MapActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Addresses.view.AddAddressActivity"
+            android:label="Add Address"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".showTechnicianScreen.view.ShowTechniciansScreen"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Addresses.view.MyAddresses"
+            android:screenOrientation="portrait"/> <!-- added for maps -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_api_key" />
+
+        <activity android:name=".LoginScreen.Views.RegistrationActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".LoadingActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".HomeActivity"
+            android:screenOrientation="portrait"/>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+    </application>
+
+</manifest>

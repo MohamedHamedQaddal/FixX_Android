@@ -1,0 +1,400 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">408034756850919</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb408034756850919</string>
+
+    <string name="app_name">FixX</string>
+    <!--string name="google_maps_api_key">AIzaSyCye7MCW8Dzvy_U4S5kb-E5j-kIXoWSfCk</string-->
+    <string name="google_maps_api_key">AIzaSyCVOvMSNN18_AJKQjfKfoWKxsYNF5GNxK0</string>
+    <string name="enterLocation">select location</string>
+    <string name="CustomizeOrderTitle">Customize Order</string>
+    <string name="Delete">Delete</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="DefaultDate">on : Any day</string>
+    <string name="calenderWidget">calender</string>
+    <string name="FromTime">from : Any time</string>
+    <string name="timer">timer</string>
+    <string name="ToTime">To : Any time</string>
+    <string name="OrderDesc">"Write Order description here "</string>
+    <string name="selectTech"><![CDATA[Select Technician >]]></string>
+    <string name="or">-- Or --</string>
+    <string name="publishOrder">Publish Order ></string>
+    <string name="AddImage">add images of the problem</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="choose_profile_type">Choose Profile Type</string>
+    <string name="user">User</string>
+    <string name="technician">Technician</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="loading">Loading...</string>
+
+
+    <string name="Painter">Painter</string>
+    <string name="Plumber">Plumber</string>
+    <string name="Electrician">Electrician</string>
+    <string name="Carpenter">Carpenter</string>
+    <string name="Tiles_Handyman">Tiles Handyman</string>
+    <string name="Parquet">Parquet</string>
+    <string name="Smith">Smith</string>
+    <string name="Decoration_Stones">Decoration Stones</string>
+    <string name="Alumetal">Alumetal</string>
+    <string name="Air_Conditioner">Air Conditioner</string>
+    <string name="Curtains">Curtains</string>
+    <string name="Glass">Glass</string>
+    <string name="Satellite">Satellite</string>
+    <string name="Gypsum_Works">Gypsum Works</string>
+    <string name="Marble">Marble</string>
+    <string name="Pest_Control">Pest Control</string>
+    <string name="Wood_Painter">Wood Painter</string>
+    <string name="Swimming_pool">Pool\n maintain</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onGoingOrders">Ongoing</string>
+    <string name="onGoingJobs">Ongoing</string>
+    <string name="accepted">Accepted</string>
+    <string name="onRequest">On Request</string>
+    <string name="onGuaranteeOrders">On Guarantee</string>
+    <string name="completedOrders">Completed</string>
+    <string name="completedJobs">Completed</string>
+
+    <string name="availableOrder">Available</string>
+    <string name="availableJobs">Available</string>
+
+    <string name="myOrders">My Orders</string>
+    <string name="myJobs">My Jobs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_chat_log">ChatLogActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="from">From : </string>
+    <string name="to">To : </string>
+    <string name="price">Price : </string>
+    <string name="notDetermined">not determined</string>
+    <string name="remaining">"remaining : "</string>
+    <string name="completed">Completed</string>
+
+
+    <!-- help screen -->
+    <string name="help_title">Help</string>
+    <string name="about_us_title">About Us</string>
+    <string name="safety_tips_title">Safety Tips</string>
+    <string name="terms_title">Terms And Conditions</string>
+
+
+    <!--about us screen-->
+    <string name="about_us_desc1">- Fix-X is a repairmen application in Egypt where you can order fixers from different categories in maintenance and finishing.With a lot of registered fixers.</string>
+    <string name="about_us_desc2">- We know how hard it is to find a qualified fixer to get the job done.That is why Fix-X does all the hard work for you;we search,evaluate,and select the best fixers in all maintenance and finishing fields,and connect you with them flawlessly through our application.</string>
+    <string name="about_us_desc3">- With Fix-X you can easily choose your fixer based on previous customers ratings,location,and category.You can also leave your review too.</string>
+    <string name="about_us_desc4">- Our fixers are trained,punctual,and highly professional so you can stay safe and get high-quality services.</string>
+
+    <!--safety tips screen-->
+    <string name="safety_tips_screen_title">Make the most of your Fix-X visit</string>
+    <string name="safety_tips_desc1">- Fix-X aims at excellence in services provided to its customers,those are Fix-X tips to help you enjoy our services even better. </string>
+    <string name="safety_tips_desc2">- Contracting Fix-X fixer outside the app voids your grantee and keeps you without any quality or cost control, so always use Fix-X for your repair needs.</string>
+    <string name="safety_tips_desc3">- We always make sure our fixers are honest and safe to let in your house, but your peace of mind always keep your personal belongings away from the fixing area.</string>
+    <string name="safety_tips_desc4">- Try having company when Fix-X fixers are at your home.</string>
+    <string name="safety_tips_desc5">- Fixing your home might involve dangerous materials and tools, so always keep your children away from Fix-X fixers gadgets and tools to ensure their safety.</string>
+    <string name="safety_tips_desc6">- Be in close proximity to the fixers, but try not to distract them with questions until the job is finished.</string>
+    <string name="safety_tips_desc7">- Please be sure about your order for Fix-X to enable us to serve you best, cancelling and no show is not welcome at Fix-X.</string>
+
+    <!--terms and conditions screen -->
+    <string name="terms_of_use_title">Terms of Use:</string>
+    <string name="terms_of_use_desc">Please read these terms of use carefully. By using the application, you are deemed to have understood and accepted these Terms of Use.If you do not agree to these terms of use,please refrain from using this application.</string>
+    <string name="acceptance_title">Acceptance:</string>
+    <string name="acceptance_desc1">Fix-X is an application that connects you with fixers from all fields and this service is provided to you according to the following Terms of Use:</string>
+    <string name="acceptance_desc2">Wherever the context requires, the terms you refers to any person using the application or the service by any form including those who are navigating the app, posting comments,and by using the service you agree to be bound to these terms, in addition when you use the service in whole or in part you have to accept and be bound to all published guidlines applicable which may change or be updated from time to time.</string>
+    <string name="acceptance_desc3">If you disagree to any of these terms, or any guides, or future amends, or you are not satisfied with Fix-X’s service by any means then you should stop using Fix-X immediately. And we reserve the right to amend these Terms at any time.</string>
+    <string name="service_description_title">Service Description and content:</string>
+    <string name="service_description_desc">Fix-X is a tool to facilitate fixers reach; it is an application that connects users with fixers. Therefore,you are fully aware that Fix-X is not involved by any means in the process between you and the fixer and we are not responsible at all for the fixer and his service.And you hereby acknowledge that we are not responsible for the fixers according to the terms described.</string>
+    <string name="behavior_title">Behavior:</string>
+    <string name="behavior_desc">You agree not to post any inappropriate comments, such as verbal abuse and not to post any advertisement through comments on the application.</string>
+    <string name="intellectual_property_title">Intellectual property rights:</string>
+    <string name="intellectual_property_desc">You acknowledge and agree that the materials on the Application are owned by Fix-X and you don’t have the right to use them and that they are subject to copyright and intellectual property rights according to the Arab Republic of Egypt laws.</string>
+    <string name="compensation_title">Compensation:</string>
+    <string name="compensation_desc1">You agree to defend,indemnify,compensate and hold Fix-X and its employees harmless from and against any and all claims and damages,liabilities,losses, and fees(including but not limited to attorney fees) arising from:</string>
+    <string name="compensation_desc2">- Your use of or navigation on the Application and / or the service.</string>
+    <string name="compensation_desc3">- Your violation of any of the provisions of these Terms.</string>
+    <string name="compensation_desc4">- Your violation of any third party’s right including, but not limited to, copyrights,trademarks,business confidential info and other proprietary and privacy rights.</string>
+    <string name="compensation_desc5">- Any claim caused by your content to cause third-party damage and the obligation to defend and indemnify shall remain in force after termination, modification or termination of these Terms, and your use of the Service and/ or Application.</string>
+    <string name="service_limits_title">Service limits and termination:</string>
+    <string name="service_limits_desc">You acknowledge and agree that Fix-X may make some limits to the service use from time to time, including but not limited to the maximum number of days that comments will be retained.</string>
+    <string name="disclaimer_title">Disclaimer of Warranty:</string>
+    <string name="disclaimer_desc">You expressly acknowledge that the use of the application and the service will be at your sole risk and that the service is provided "As is" or "As Available" without any kind of expressed or implied warranties.</string>
+    <string name="general_info_title">General Information:</string>
+    <string name="general_info_desc">These terms and other policies published on this application constitute the sole agreement between you and Fix-X, which governs your use of the Service and the application and supersedes all understandings,agreements,negotiations and discussions between the parties, whether written or oral. The relationship between you and Fix-X must be governed through the laws of the Arab Republic of Egypt. Any claim you may have against Fix-X must be submitted to the exclusive jurisdiction of Egypt. However, if you are a consumer, consumer law may require the application of another law.</string>
+    <string name="waiver_title">Waiver:</string>
+    <string name="waiver_desc">These terms and any rights or licenses granted by you may not be transferred or waived by you, but can be waived by Fix-X without restrictions. Any waiver or transfer of these terms by you is considered null and void.</string>
+    <string name="privacy_policy_title">Privacy Policy:</string>
+    <string name="privacy_policy_desc">We respect you privacy and have developed a privacy policy incorporated into this agreement.Please take your time to read our privacy policy carefully, and by agreeing to this privacy policy.</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="send">Send</string>
+    <string name="description">Description</string>
+    <string name="images">Images</string>
+    <string name="bidders">Bidders</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="Add_Address">Add Address</string>
+    <string name="JOBS">JOBS</string>
+    <string name="REVIEWS">REVIEWS</string>
+    <string name="Book_Now">Book Now</string>
+    <string name="Rating">Rating</string>
+    <string name="Bid">Bid</string>
+    <string name="Profile_photo">Profile photo</string>
+    <string name="Select_Service">Select Service</string>
+    <string name="Chats">Chats</string>
+    <string name="Addresses">Addresses</string>
+    <string name="Language">Language</string>
+    <string name="Help">Help</string>
+    <string name="SignOut">Sign out</string>
+    <string name="View_or_Edit_Your_Profile">View or Edit Your Profile</string>
+    <string name="Order_Type">Order Type</string>
+    <string name="Book">Book</string>
+    <string name="completion_date">Completion Date</string>
+
+    <string name="SingleJobRequest">requests a job from you</string>
+    <string name="JobRequestTitle">New Job Request</string>
+    <string name="Deny">Deny Request</string>
+    <string name="Determine_Price">Determine Price : </string>
+    <string name="Confirm">Confirm Request</string>
+    <string name="LE">LE</string>
+    <string name="On">On : </string>
+    <string name="AnyTime">-- : --</string>
+    <string name="Address">Address : </string>
+    <string name="RequestDenied">Request Denied</string>
+    <string name="DenyMessage">Denied your request</string>
+    <string name="RequestConfirmed">Request Confirmed</string>
+    <string name="ConfirmMessage">Confirmed you application</string>
+    <string name="JobDetails">Job Details</string>
+    <string name="OfferedPrice">Offered Price</string>
+    <string name="Accept">Accept</string>
+    <string name="Cancel">Cancel</string>
+    <string name="No_Description">No Available Description</string>
+    <string name="Job_Accepted">Job\'s yours</string>
+    <string name="Job_Accept_Msg">Accepted The Price You Offered</string>
+    <string name="TotalAccount">Total Account : </string>
+    <string name="JobCompleted">Complete Job ✓</string>
+    <string name="CancelJob">Cancel Job</string>
+
+
+    <string name="addAddressTitle">Add Address</string>
+    <string name="selectArea">Please Select Area</string>
+    <string name="selectCity">Please Select City</string>
+    <string name="myAddressesTitle">My Addresses</string>
+    <string name="longPressToast">Long Press to delete</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleteDialogTitle">Confirm Deleting Address</string>
+    <string name="deleteDialogQuestion">Do you want to delete this address?</string>
+
+    <string name="exit">Exit</string>
+    <string name="stay">Stay</string>
+    <string name="leaveDialogTitle">Confirm Leave</string>
+    <string name="leaveDialogMsg">if you leave,your address will not saved.</string>
+    <string name="leaveOrderDialogMsg">if you leave,your order will remove.</string>
+
+    <string name="deleteImageDialogTitle">Confirm Delete</string>
+    <string name="deleteImageDialogMsg">Are you sure you want to delete this image?</string>
+
+
+    <string name="addressTitleHint">Title for you address</string>
+    <string name="streetHint">Street</string>
+    <string name="floorHint">Floor</string>
+    <string name="buildingNumberHint">Building Number or Name</string>
+    <string name="notesHint">Notes about location</string>
+    <string name="useMapBtn">Use Map</string>
+    <string name="addAddressBtn">Add Address</string>
+
+
+    <string name="enterYourAddressHint">Enter Your Address</string>
+    <string name="noAddressText">No Address Found</string>
+
+
+    <string name="pickJobText">Pick Job Profile</string>
+    <string name="selectWorkAddressHint">Select Your Work Addresses</string>
+
+    <string name="City">City</string>
+    <string name="Cairo">Cairo</string>
+    <string name="Alexandria">Alexandria</string>
+
+    <string name="Area">Area</string>
+    <string name="AlShrouk">Al-Shrouk</string>
+    <string name="firstSettlement">1st Settlement</string>
+    <string name="FifthSettlement">Fifth Settlement</string>
+    <string name="Madenti">Madenti</string>
+    <string name="AlRehab">Al-Rehab</string>
+    <string name="tenthOfRamadan">10th Of Ramadan</string>
+    <string name="BadrCity">Badr City</string>
+    <string name="Heliopolis">Heliopolis</string>
+    <string name="Zamalek">Zamalek</string>
+    <string name="NasserCity">Nasser City</string>
+    <string name="Qobbah">Qobbah</string>
+    <string name="Maadi">Maadi</string>
+    <string name="Mokkatm">Mokkatm</string>
+    <string name="Mohandsen">Mohandsen</string>
+    <string name="ShekhZayed">Shekh Zayed</string>
+    <string name="Dokki">Dokki</string>
+    <string name="GizaSquare">Giza Square</string>
+    <string name="Haram">Haram</string>
+    <string name="Fissal">Fissal</string>
+    <string name="Shobra">Shobra</string>
+    <string name="Obour">Obour</string>
+    <string name="Matareya">Matareya</string>
+    <string name="sixthOctober">6th October</string>
+    <string name="Helwan">Helwan</string>
+    <string name="AinShams">Ain Shams</string>
+    <string name="Manyal">Manyal</string>
+    <string name="Agouza">Agouza</string>
+
+    <string name="MoharamBek">Moharam Bek</string>
+    <string name="AbuQir">Abu Qir</string>
+    <string name="Montaza">Montaza</string>
+    <string name="AlHadarah">Al Hadarah</string>
+    <string name="AlIbrahimeyah">Al Ibrahimeyah</string>
+    <string name="Asafra">Asafra</string>
+    <string name="AlAzaritah">Al Azaritah</string>
+    <string name="Bahari">Bahari</string>
+    <string name="Dekhela">Dekhela</string>
+    <string name="Bokli">Bokli</string>
+    <string name="BorgAlArab">Borg Al Arab</string>
+    <string name="AlQabari">Al Qabari</string>
+    <string name="Fleming">Fleming</string>
+    <string name="Janklees">Janklees</string>
+    <string name="Gleem">Gleem</string>
+    <string name="KafrAbdou">Kafr Abdou</string>
+    <string name="Louran">Louran</string>
+    <string name="ElMandara">El Mandara</string>
+    <string name="Miami">Miami</string>
+    <string name="SanStifano">San Stifano</string>
+    <string name="SidiBeshr">Sidi Beshr</string>
+    <string name="SidiGaber">Sidi Gaber</string>
+    <string name="Shatebi">Shatebi</string>
+    <string name="Sporting">Sporting</string>
+    <string name="Victoria">Victoria</string>
+    <string name="Smouha">Smouha</string>
+    <string name="Stanli">Stanli</string>
+    <string name="WaborElMaya">Wabor El Maya</string>
+    <string name="ElHanovil">El Hanovil</string>
+    <string name="ElBitash">El Bitash</string>
+    <string name="QismBabSharqi">Qism Bab Sharqi</string>
+    <string name="Mansheya">Mansheya</string>
+    <string name="AlAttarin">Al Attarin</string>
+    <string name="FirstAlRaml">First Al Raml</string>
+    <string name="MustafaKamel">Mustafa Kamel</string>
+    <string name="AddAddress">Add atleast one work location</string>
+    <string name="ImageUploadFailed">Failed to upload profile image</string>
+    <string name="AddNewName">Enter a new name</string>
+    <string name="NameUpdateFail">Failed to Update profile name</string>
+    <string name="AddNewEmail">Enter a new email</string>
+    <string name="EmailUpdateFail">Failed to Update profile email</string>
+    <string name="EmailExists">This email already exists.</string>
+    <string name="AddNewPhoneNumber">Enter a new Phone number</string>
+    <string name="PhoneUpdateFail">Failed to Update phone number</string>
+    <string name="PhoneExists">This phone number already exists.</string>
+    <string name="VerifyPassword">Verify your password</string>
+    <string name="EnterPassword">password needs to be at least 6 characters.</string>
+    <string name="WrongPassword">You entered wrong password.</string>
+    <string name="PasswordUpdateFail">Failed to update your password.</string>
+    <string name="WorkLocations">Work locations</string>
+    <string name="Request">Request</string>
+    <string name="Home">Home</string>
+    <string name="Settings">Settings</string>
+    <string name="OrderLoadingFailed">Failed to load your requests.</string>
+    <string name="JobsLoadingFailed">Failed to load your jobs.</string>
+    <string name="Riyadah">AR Riyadah</string>
+    <string name="EzbetSaad">Ezbet Saad</string>
+    <string name="Abis">Abis</string>
+
+    <string name="Egypt">Eqypt</string>
+
+    <string name="Job">Job</string>
+    <string name="myWokAddressesTitle">My Work Addresses</string>
+    <string name="addWorkAddress">Add Work Address</string>
+    <string name="ExtendJob">Extend Job</string>
+    <string name="EditJob">Edit Job</string>
+    <string name="JobRemoveFail">Failed to remove this job.</string>
+    <string name="JobRemoved">Job Deleted</string>
+    <string name="SelectLocation">Please Select your Location.</string>
+    <string name="JobUploadFailed">Failed to upload this job</string>
+    <string name="JobUploaded">Job Uploaded.</string>
+    <string name="AddWorkLocation">Add Work Location</string>
+    <string name="AddressExists">This Address already Exists.</string>
+    <string name="deleteLocationQuestion">Do you want to delete this Work Location ?</string>
+    <string name="deleteLocaionTitle">Confirm Deleting Work Location</string>
+    <string name="WorkLocationAddFail">Failed to add work location.</string>
+    <string name="LocationRemoveFailed">Failed to Delete Location.</string>
+    <string name="deleteJobRequestQuestion">Do you want to delete this job request?</string>
+    <string name="deleteJobRequest">Confirm Deleting Job Request</string>
+    <string name="JobUpdated">Job Updated.</string>
+    <string name="JobUpdateFailed">Job update failed.</string>
+    <string name="MultiJobRequest">requested a job in your work location</string>
+    <string name="selectLanguageTitle">Please select language</string>
+    <string name="SelectLanguageMsg">Choose your prefered language.</string>
+    <string name="RequestCanceled">Request Canceled</string>
+    <string name="CancelMessage">Canceled your request</string>
+    <string name="CancelJobTitle">Cancel Job</string>
+    <string name="CancelJobMsg">Do you want to cancel this job?</string>
+    <string name="DenyDialogMsg">Do you want to deny this request?</string>
+    <string name="JobCompletedTitle">Job Completed</string>
+    <string name="JobCompletedMsg">Completed your request</string>
+    <string name="JobStatusFail">Job Status Update Failed</string>
+    <string name="CancelBidding">Cancel My Bidding</string>
+    <string name="YourBidding">your bidding: </string>
+    <string name="FailedToRemoveBidder">Failed to remove your bidding</string>
+    <string name="CancelBiddingMsg">Do you want to cancel this bidding?</string>
+    <string name="RateTech">Rate this technician</string>
+    <string name="writeComment">write a comment here (optional)</string>
+    <string name="Submit">Submit Rating</string>
+    <string name="GiveRating">Please give rating.</string>
+    <string name="CommentFail">Failed to upload comment</string>
+    <string name="CommentLoadFail">Failed to load comments</string>
+    <string name="DoneJobs">Done Jobs</string>
+    <string name="WorkProfile">My Work Profile</string>
+    <string name="AddExtension">Add Extension</string>
+    <string name="ExtensionDataMissing">Please Add Data about the job</string>
+    <string name="ExtendUploadFail">Failed to upload extension</string>
+    <string name="ExtendFetchFail">Failed to load Extensions</string>
+    <string name="Uploading">Uploading . . .</string>
+    <string name="EnterPrice">Enter your estimated price</string>
+    <string name="ExtensionUpdataFail">failed to update price</string>
+    <string name="ExtensionRemoveFail">Failed to delete extension</string>
+    <string name="AddExtensionPrices">Add Extensions prices</string>
+    <string name="Reply">reply</string>
+    <string name="GoogleSignIn">SignIn with Google</string>
+    <string name="enterUserName">enter your name</string>
+    <string name="CreateAccFail">Failed to create an account</string>
+    <string name="EnterEmail">Enter your e-mail</string>
+    <string name="AddReply">write your reply</string>
+    <string name="Profile">Profile</string>
+    <string name="Name">Name</string>
+    <string name="SelectLanguage">Select language</string>
+    <string name="PickImage">Pick an image</string>
+    <string name="selectLocation">Select Location</string>
+    <string name="AddLocation">Add new Location</string>
+    <string name="your_email">your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="your_name">your name</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="your_password">your password</string>
+    <string name="re_enter_your_new_password">Re enter your new password</string>
+    <string name="enter_your_old_password">Enter your old password</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="your_phone">your phone</string>
+    <string name="select_job">Please select your job</string>
+
+
+</resources>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FixX</string>
+    <string name="enter_phone_number">أدخل رقم الهاتف</string>
+    <string name="choose_profile_type">اختر نوع الحساب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="password">كلمة السر</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="forgot_password">نسيت كلمة السر؟</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="next">التالى</string>
+    <string name="technician">فنى</string>
+    <string name="user">عميل</string>
+    <string name="sign_up">إنشاء حساب جديد</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="loading">برجاء الانتظار قليلا...</string>
+
+
+    <string name="SignOut">تسجيل الخروج</string>
+
+    <string name="Painter">نقاش</string>
+    <string name="Plumber">سباك</string>
+    <string name="Electrician">كهربائى</string>
+    <string name="Carpenter">نجار</string>
+    <string name="Tiles_Handyman">سيراميك</string>
+    <string name="Parquet">باركيه</string>
+    <string name="Smith">حداد</string>
+    <string name="Decoration_Stones">واجهات حجرية</string>
+    <string name="Alumetal">الوميتال</string>
+    <string name="Air_Conditioner">صيانة تكييف</string>
+    <string name="Curtains">ستائر</string>
+    <string name="Glass">زجاج</string>
+    <string name="Satellite">صيانة دش</string>
+    <string name="Gypsum_Works">اعمال جبس</string>
+    <string name="Marble">رخام</string>
+    <string name="Pest_Control">مكافحة حشرات</string>
+    <string name="Wood_Painter">استرجى</string>
+    <string name="Swimming_pool">حمامات سباحة</string>
+
+
+
+    <!-- help screen -->
+    <string name="help_title">مساعدة</string>
+    <string name="about_us_title">عن فيكس -إكس</string>
+    <string name="safety_tips_title">إجراءات السلامة</string>
+    <string name="terms_title">الشروط و الأحكام</string>
+
+    <!--about us screen-->
+
+    <string name="about_us_desc1">- فيكس -إكس هو تطبيق للفنيين فى مصر، من خلاله تقدر تطلب الفنى اللى انت محتاجه فى مختلف مجالات الصيانة والتشطيبات.</string>
+    <string name="about_us_desc2">- نعرف مدى صعوبة إنك تلاقى فنى محترم للقيام بأعمال الصيانة والتشطيبات.علشان كدة فيكس -إكس بيقوم بالمهمة الصعبة..بندور،نقيم،ونختار أفضل صنايعية ونوصلك بيهم بكل سهولة وسلاسة من خلال تطبيقنا.</string>
+    <string name="about_us_desc3">- مع فيكس -إكس تقدر تختار الفنى على حسب تقييم العملاء السابقين،المنطقة،والتخصص.وتقدر كمان تكتب رأيك وتقييمك له.</string>
+    <string name="about_us_desc4">- الفنيين مع فيكس -إكس مدربين،منضبطين،ومحترفين علشان تكون دايماً متأكد إنك فى امان وإنك هتحصل على اعلى مستويات الجودة.</string>
+
+
+    <!--safety tips screen-->
+
+    <string name="safety_tips_screen_title">بعض النقاط التى تضمن لك التجربة الأفضل مع فيكس -إكس </string>
+    <string name="safety_tips_desc1">- تهدف فيكس-إكس إلى التميز في الخدمات المقدمة لعملائها ، تلك هي نصائح فيكس -إكس لمساعدتك على الاستمتاع بخدماتنا بشكل أفضل.</string>
+    <string name="safety_tips_desc2">- الاتفاق مع الفنيين المسجلين على فيكساوى خارج التطبيق لا يعطيك الحق فى الضمان ولا يحفظ لك أى حقوق.دائماً استخدم فيكس -إكس لإنهاء عمليات الصيانة التى تحتاج إليها.</string>
+    <string name="safety_tips_desc3">- نحن دائماً نتأكد ان فنيين فيكس -إكس على مستوى عالى من الالتزام والأمان،وذلك لا يعنى ان تترك المنزل وألا تراقب وتحافظ على منزلك. وعليك أن تحتفظ بالمقتنيات الغالية بعيداً عن منطقة عمل الفنى. </string>
+    <string name="safety_tips_desc4">- لابد من تواجد شخص مع الفنى خلال فترة العمل.</string>
+    <string name="safety_tips_desc5">- بعض عمليات الاصلاح تتطلب استخدام آلات حادة وماكينات ثقيلة،نرجو ابعاد الاطفال بعيداً عن منطقة العمل وادوات الفنى للتأكد من سلامتهم.</string>
+    <string name="safety_tips_desc6">- التواجد مع الفنى مهم ولكن لا تشتت الفنى بأسئلة إلا بعد انتهاء العمل.</string>
+    <string name="safety_tips_desc7">- تواجدك فى المنزل وقت زيارة الفنى مهم،إلغاء الطلبات وعدم الاستجابة شيء غير مرحب على فيكس -إكس.</string>
+
+    <!--terms and conditions screen -->
+    <string name="terms_of_use_title">شروط الاستخدام:</string>
+    <string name="terms_of_use_desc">يرجى قراءة شروط الاستخدام هذه بعناية،وباستخدامك لهذا التطبيق فأنت تعلن فهمك وقبولك لهذه الشروط.وإذا لم توافق على هذه الشروط،لا يجوز لك استخدام هذا التطبيق.</string>
+    <string name="acceptance_title">القبول:</string>
+    <string name="acceptance_desc1">فيكس -إكس هو تطبيق يساعدك على الوصول للحرفيين فى مختلف المجالات ويتم تقديم هذه الخدمة إليك وفقاً لشروط الإستخدام الآتية:</string>
+    <string name="acceptance_desc2">أينما يتطلب السياق فإن المصطلحين "أنت" و"أنتم" يجب ان يعنيا أى شخص يستخدم التطبيق أو الخدمة بأى طريقة من الطرق بما فى ذلك الأشخاص الذين يتصفحون التطبيق ومحتوياته وينشرون التعليقات وباستخدام الخدمة،فأنت توافق على الالتزام بهذه الشروط بالإضافة إلى ذلك،عند استخدام جزء من الخدمة فأنت توافق على الالتزام بأى ارشادات منشورة معمول بها لهذه الخدمة،والتى قد تتغير أو يتم تحديثها من حين لآخر.</string>
+    <string name="acceptance_desc3">وفى حالة اعتراضك على أى بند أو شرط من هذه الشروط،أو أى إرشادات أو أى تغييرات لاحقة عليها أو أصبحت غير سعيد بفيكس -إكس أو بالخدمة بأى طريقة من الطرق،فإن خيارك الوحيد هو التوقف فوراً عن استخدام فيكس -إكس.وقد يتم تحديث هذه الشروط من قبل فيكس -إكس فى أى وقت من الأوقات وفق سلطتها التقديرية.</string>
+    <string name="service_description_title">وصف الخدمة وسياسة المحتوى:</string>
+    <string name="service_description_desc">فيكس-إكس هو وسيلة لسهولة الوصول للحرفيين،اننا نعمل كتطبيق يصل المستخدم بالحرفى ولذلك أنت على دراية كاملة إن فيكس -إكس لا يدخل بأى شكل من الاشكال فى العملية بينك وبين الحرفى ونحن غير مسئولين بتاتاً عن الحرفى وما يقدمه من خدمة لك ولسنا مسئولين عنه،لذلك أنت تقر بعدم مسئوليتنا عن الحرفى طبقاً للشروط الموضحة.</string>
+    <string name="behavior_title">السلوك:</string>
+    <string name="behavior_desc">أنت توافق على عدم نشر تعليقات غير مناسبة كأى إساءة لفظية،وعدم وضع أى إعلانات فى البرنامج عن طريق التعليقات. </string>
+    <string name="intellectual_property_title">حقوق الملكية الفكرية:</string>
+    <string name="intellectual_property_desc">أنت تقر وتوافق على أن المواد الموجودة على التطبيق مملوكة لفيكس -إكس وليس لك حق التصرف بها وخاضعة لحق النسخ وغيرها من حقوق الملكية الفكرية بموجب قوانين جمهورية مصر العربية.</string>
+    <string name="compensation_title">التعويض:</string>
+    <string name="compensation_desc1">أنت توافق على الدفاع وتعويض وإبقاء فيكس -إكس بعيد عن الضرر وكذلك موظفيه التابعين له من وضد كافة الدعاوى والأضرار والالتزامات والخسائر والمسئوليات والتكاليف أو الدين والمصاريف(بما فى ذلك على سبيل المثال وليس الحصر رسوم المحامى)الناشئة عن:</string>
+    <string name="compensation_desc2">- استخدامك أو تجولك على التطبيق و/أو الخدمة.</string>
+    <string name="compensation_desc3">- انتهاكك لأى من نصوص هذه البنود.</string>
+    <string name="compensation_desc4">- انتهاكك لأى حق من حقوق الغير بما فى ذلك على سبيل المثال وليس الحصر حقوق النسخ والعلامات التجارية والأسرار التجارية وغيرها من حقوق الملكية والخصوصية.</string>
+    <string name="compensation_desc5">- أى مطالبة بسبب المحتوى الخاص بك بإحداث ضرر للغير ويبقى الالتزام بالدفاع والتعويض سارياً بعد إنهاء أو تعديل أو انتهاء هذه الشروط،واستخدامك للخدمة والتطبيق.</string>
+    <string name="service_limits_title">حدود الخدمة وإنهائها:</string>
+    <string name="service_limits_desc">أنت تقر وتوافق على إمكانية أن يقوم فيكس -إكس بعمل حدود من حين لآخر فيما يتعلق باستخدام الخدمة بما فى ذلك على سبيل المثال وليس الحصر أقصى عدد من الأيام التى سيتم الاحتفاظ بالتعليقات.</string>
+    <string name="disclaimer_title">إخلاء المسئولية عن الضمانات:</string>
+    <string name="disclaimer_desc">أنت تقر إقراراً صريحاً وتوافق على أن استخدام التطبيق والخدمة سيكون على مسئوليتك بالكامل وأن الخدمات المعتمدة عليه والتى يتم تقديمها "كما هى" أو "على أساس الإتاحة" تكون بدون ضمانات من أى نوع ولا يكون هناك أى مسئولية صريحة عن جميع الضمانات الصريحة والضمنية.</string>
+    <string name="general_info_title">المعلومات العامة:</string>
+    <string name="general_info_desc">تشكل هذه الشروط والسياسات الأخرى المنشورة على هذا التطبيق كامل المفاهمة والاتفاق الحصريين بينك وبين فيكس -إكس،وهى تحكم استخدامك للخدمة والتطبيق وتحل محل كافة المفاهمات والعروض والاتفاقيات والمفاوضات والنقاشات بين الأطراف سواء خطية أو شفهية.ويجب أن تحكم الشروط والعلاقة بينك وبين فيكس -إكس عن طريق قوانين جمهورية مصر العربية.وأى مطالبة قد تكون لك ضد فيكس -إكس يجب تقديمها إلى المحاكم ذات الاختصاص القضائى الحصرى بمصر.ومع ذلك فإنه إذا كنت مستهلكاً فقد يطلب قانون المستهلك تطبيق قانون آخر.</string>
+    <string name="waiver_title">التنازل:</string>
+    <string name="waiver_desc">لا يجوز نقل أو التنازل عن هذه الشروط وأى حقوق أو تراخيص ممنوحة بموجبها بواسطتك،ولكن يمكن التنازل عنها من قبل فيكس -إكس دون أى قيود.وأى تنازل أو نقل لهذه الشروط من قبلك يعتبر لاغ ولا يعتد به.</string>
+    <string name="privacy_policy_title">سياسة الخصوصية:</string>
+    <string name="privacy_policy_desc">نحن نحترم خصوصيتك ولقد قمنا بتطوير سياسة خاصة بالخصوصية مدمجة بهذه الاتفاقية.نرجو إتاحة بعض الوقت لقراءة سياسة الخصوصية الخاصة بنا،وبالموافقة على هذه الشروط،فأنت أيضا تقبل شروط سياسة الخصوصية هذه.</string>
+    <string name="enter_message">أدخل الرسالة</string>
+    <string name="send">إرسال</string>
+    <string name="enter_your_address">أدخل العنوان</string>
+    <string name="Add_Address">إضافة عنوان جديد</string>
+    <string name="REVIEWS">تقييمات</string>
+    <string name="Book_Now">احجز الآن</string>
+    <string name="Rating">التقييم</string>
+    <string name="Select_Service">اختر نوع الخدمة</string>
+    <string name="Chats">المحادثات</string>
+    <string name="Addresses">العناوين</string>
+    <string name="Language">اللغة</string>
+    <string name="View_or_Edit_Your_Profile">اعرض أو عدل صورة الحساب</string>
+    <string name="Order_Type">نوع الطلب</string>
+    <string name="Book">حجز</string>
+    <string name="completion_date">تاريخ الإتمام</string>
+    <string name="images">الصور</string>
+    <string name="from">من:</string>
+    <string name="to">إلى:</string>
+    <string name="price">السعر:</string>
+    <string name="AddImage">إضافة صورة</string>
+    <string name="Delete">حذف</string>
+    <string name="Camera">الكاميرا</string>
+    <string name="enterLocation">اختر الموقع</string>
+    <string name="description">التوصيف</string>
+    <string name="Profile_photo">صورة الحساب</string>
+    <string name="notDetermined">غير محدد</string>
+    <string name="remaining">متبقية:</string>
+    <string name="completed">مكتمل</string>
+    <string name="Help">مساعدة</string>
+    <string name="Gallery">المعرض</string>
+    <string name="CustomizeOrderTitle">إنشاء طلب</string>
+    <string name="google_maps_api_key">AIzaSyAwP8PF38zhUwteoi3kIZVolt0HCndTktk</string>
+    <string name="calenderWidget">التقويم</string>
+    <string name="or">-- أو --</string>
+    <string name="publishOrder">تحرير الطلب</string>
+
+    <string name="addAddressTitle">إضافة عنوان</string>
+    <string name="selectArea">من فضلك اختر المنطقة</string>
+    <string name="selectCity">من فضلك اختر المدينة</string>
+    <string name="myAddressesTitle">عنوانى</string>
+    <string name="longPressToast">انقر مطولا لمسح العنوان</string>
+
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="deleteDialogTitle">تأكيد مسح العنوان</string>
+    <string name="deleteDialogQuestion">هل تريد مسح هذا العنوان؟</string>
+
+    <string name="exit">خروج</string>
+    <string name="stay">استمرار</string>
+    <string name="leaveDialogTitle">تأكيد مغادرة</string>
+    <string name="leaveDialogMsg">إذا غادرت لن يتم حفظ عنوانك</string>
+    <string name="leaveOrderDialogMsg">إذا غادرت لن يتم تسجيل طلبك</string>
+
+    <string name="deleteImageDialogTitle">تأكيد مسح</string>
+    <string name="deleteImageDialogMsg">هل انت متأكد انك تريد مسح هذه الصورة؟</string>
+
+
+    <string name="addressTitleHint">حدد اسماً للعنوان</string>
+    <string name="streetHint">شارع</string>
+    <string name="floorHint">طابق</string>
+    <string name="buildingNumberHint">اسم أو رقم المبنى</string>
+    <string name="notesHint">ملاحظات تخص العنوان</string>
+    <string name="useMapBtn">استخدم الخريطة</string>
+    <string name="addAddressBtn">اضف العنوان</string>
+
+
+    <string name="enterYourAddressHint">ادخل عنوانك</string>
+    <string name="noAddressText">لا يوجد عنوان</string>
+
+
+    <string name="pickJobText">اختر نوع وظيفتك</string>
+    <string name="selectWorkAddressHint">اختر عنوان عملك</string>
+
+    <string name="City">مدينة</string>
+    <string name="Cairo">القاهرة</string>
+    <string name="Alexandria">الإسكندرية</string>
+
+    <string name="Area">منطقة</string>
+    <string name="AlShrouk">الشروق</string>
+    <string name="firstSettlement">التجمع الأول</string>
+    <string name="FifthSettlement">التجمع الخامس</string>
+    <string name="Madenti">مدينتي</string>
+    <string name="AlRehab">الرحاب</string>
+    <string name="tenthOfRamadan">العاشر من رمضان</string>
+    <string name="BadrCity">مدينة بدر</string>
+    <string name="Heliopolis">هليوبليس</string>
+    <string name="Zamalek">الزمالك</string>
+    <string name="NasserCity">مدينة نصر</string>
+    <string name="Qobbah">القبة</string>
+    <string name="Maadi">المعادى</string>
+    <string name="Mokkatm">المقطم</string>
+    <string name="Mohandsen">المهندسين</string>
+    <string name="ShekhZayed">الشيخ زايد</string>
+    <string name="Dokki">الدقى</string>
+    <string name="GizaSquare">ميدان الجيزة</string>
+    <string name="Haram">الهرم</string>
+    <string name="Fissal">فيصل</string>
+    <string name="Shobra">شبرا</string>
+    <string name="Obour">العبور</string>
+    <string name="Matareya">المطرية</string>
+    <string name="sixthOctober">السادس من أكتوبر</string>
+    <string name="Helwan">حلوان</string>
+    <string name="AinShams">عين شمس</string>
+    <string name="Manyal">المنيل</string>
+    <string name="Agouza">العجوزة</string>
+
+    <string name="MoharamBek">محرم بك</string>
+    <string name="AbuQir">أبو قير</string>
+    <string name="Montaza">المنتزة</string>
+    <string name="AlHadarah">الحضرة</string>
+    <string name="AlIbrahimeyah">الإبراهيمية</string>
+    <string name="Asafra">العصافرة</string>
+    <string name="AlAzaritah">الأزاريطة</string>
+    <string name="Bahari">بحرى</string>
+    <string name="Dekhela">الدخيلة</string>
+    <string name="Bokli">بوكلى</string>
+    <string name="BorgAlArab">برج العرب</string>
+    <string name="AlQabari">القباري</string>
+    <string name="Fleming">فليمنج</string>
+    <string name="Janklees">جناكليس</string>
+    <string name="Gleem">جليم</string>
+    <string name="KafrAbdou">كفر عبده</string>
+    <string name="Louran">لوران</string>
+    <string name="ElMandara">المندرة</string>
+    <string name="Miami">ميامى</string>
+    <string name="SanStifano">سان استفانو</string>
+    <string name="SidiBeshr">سيدي بشر</string>
+    <string name="SidiGaber">سيدي جابر</string>
+    <string name="Shatebi">الشاطبي</string>
+    <string name="Sporting">سبورتنج</string>
+    <string name="Victoria">فيكتوريا</string>
+    <string name="Smouha">سموحة</string>
+    <string name="Stanli">ستانلي</string>
+    <string name="WaborElMaya">وابور المياة</string>
+    <string name="ElHanovil">الهانوفيل</string>
+    <string name="ElBitash">البطاش</string>
+    <string name="QismBabSharqi">قسم باب شرقي</string>
+    <string name="Mansheya">المنشية</string>
+    <string name="AlAttarin">العطارين</string>
+    <string name="FirstAlRaml">أول الرمل</string>
+    <string name="MustafaKamel">مصطفى كامل</string>
+
+
+    <string name="DefaultDate">فى: أى يوم</string>
+    <string name="FromTime">من: أى وقت</string>
+    <string name="timer">المؤقت</string>
+    <string name="ToTime">إلى: أى وقت</string>
+    <string name="OrderDesc">وصف الطلب</string>
+    <string name="selectTech">اختر الفنى</string>
+    <string name="availableOrder">متاحة</string>
+    <string name="availableJobs">متاحة</string>
+    <string name="completedOrders">منتهية</string>
+    <string name="completedJobs">منتهية</string>
+    <string name="onGoingOrders">جارية</string>
+    <string name="onGoingJobs">جارية</string>
+    <string name="myOrders">طلباتى</string>
+    <string name="myJobs">أعمالى</string>
+    <string name="previous">السابق</string>
+    <string name="Bid">عطاء</string>
+    <string name="JOBS">أعمال</string>
+    <string name="SingleJobRequest">يطلب خدمتك فيما يخص:</string>
+    <string name="accepted">مقبولة</string>
+    <string name="onRequest">قيد الطلب</string>
+    <string name="JobRequestTitle">طلب عمل جديد</string>
+    <string name="Deny">رفض الطلب</string>
+    <string name="Determine_Price">حدد السعر:</string>
+    <string name="Confirm">أكد الطلب:</string>
+    <string name="LE">ج.م.</string>
+    <string name="On">فى:</string>
+    <string name="AnyTime">-- : --</string>
+    <string name="Address">العنوان:</string>
+    <string name="RequestDenied">الطلب مرفوض</string>
+    <string name="DenyMessage">تم رفض طلبك</string>
+    <string name="RequestConfirmed">الطلب مقبول</string>
+    <string name="ConfirmMessage">تأكيد طلبك</string>
+    <string name="JobDetails">تفاصيل العمل</string>
+    <string name="OfferedPrice">السعر المقدم</string>
+    <string name="Accept">قبول</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="No_Description">لا يوجد توصيف متاح</string>
+    <string name="Job_Accept_Msg">قبول السعر الذى قدمته</string>
+    <string name="TotalAccount">جملة الرصيد:</string>
+    <string name="JobCompleted">عمل مكتمل</string>
+    <string name="CancelJob">إلغاء العمل</string>
+    <string name="Job_Accepted">العمل الخاص بك</string>
+    <string name="bidders">المتقدمين للطلب</string>
+    <string name="Home">الرئيسية</string>
+    <string name="Settings">الإعدادات</string>
+
+    <string name="AddAddress">أضف مكان العمل</string>
+    <string name="ImageUploadFailed">فشل فى تحديث الصورة</string>
+    <string name="AddNewName">أدخل اسم جديد</string>
+    <string name="NameUpdateFail">فشل فى تحديث اسم الحساب</string>
+    <string name="AddNewEmail">ادخل الايميل الجديد</string>
+    <string name="EmailUpdateFail">فشل فى تحديث الايميل</string>
+    <string name="EmailExists">هذا الايميل موجود بالفعل.</string>
+    <string name="AddNewPhoneNumber">ادخل رقم هاتف جديد.</string>
+    <string name="PhoneUpdateFail">فشل فى تحديث رقم الهاتف.</string>
+    <string name="PhoneExists">هذا الرقم موجود بالفعل.</string>
+    <string name="VerifyPassword">تحقق من كلمة السر.</string>
+    <string name="EnterPassword">أدخل كلمة سر من ستة أحرف</string>
+    <string name="WrongPassword">كلمة السر خاطئة.</string>
+    <string name="PasswordUpdateFail">فشل فى تحديث كلمة السر.</string>
+    <string name="WorkLocations">أماكن العمل</string>
+    <string name="Request">طلب</string>
+    <string name="OrderLoadingFailed">فشل فى تحميل طلباتك</string>
+    <string name="JobsLoadingFailed">فشل فى تحميل قائمة الطلبات</string>
+    <string name="Riyadah">الرياضة</string>
+    <string name="EzbetSaad">عزبة سعد</string>
+    <string name="Abis">أبيس</string>
+
+    <string name="Egypt">مصر</string>
+
+    <string name="Job">صنعة</string>
+
+    <string name="myWokAddressesTitle">أماكن العمل الخاصة بى</string>
+    <string name="addWorkAddress">أضف مكان العمل الخاص بك</string>
+    <string name="ExtendJob">طلب زائد</string>
+    <string name="EditJob">تعديل الطلب</string>
+    <string name="JobRemoveFail">فشل فى مسح الطلب</string>
+    <string name="JobRemoved">تم مسح الطلب</string>
+    <string name="SelectLocation">برجاء اختيار عنوانك</string>
+    <string name="JobUploadFailed">فشل فى رفع الطلب</string>
+    <string name="JobUploaded">تم رفع الطلب</string>
+    <string name="AddWorkLocation">أضف منطقة العمل</string>
+    <string name="AddressExists">هذا العنوان موجود بالفعل</string>
+    <string name="deleteLocationQuestion">هل ترغب فى مسح منطة العمل؟</string>
+    <string name="deleteLocaionTitle">تأكيد على مسح منطقة العمل</string>
+    <string name="WorkLocationAddFail">فشل فى اضافة منطقة العمل</string>
+    <string name="LocationRemoveFailed">فشل فى مسح العنوان</string>
+    <string name="JobUpdated">تم رفع الطلب</string>
+    <string name="JobUpdateFailed">فشل فى رفع الطلب</string>
+    <string name="MultiJobRequest">قام بطلب خدمة فى منطقة عملك</string>
+    <string name="selectLanguageTitle">اختيار اللغة</string>
+    <string name="SelectLanguageMsg">اختر لغتك المفضلة</string>
+    <string name="deleteJobRequestQuestion">هل ترغب فى مسح الطلب؟</string>
+    <string name="deleteJobRequest">تأكيد مسح الطلب</string>
+    <string name="RequestCanceled">تم إلغاء الطلب</string>
+    <string name="CancelMessage">قام بإلغاء طلبك</string>
+    <string name="CancelJobTitle">إلغاء الطلب</string>
+    <string name="CancelJobMsg">هل ترغب فى إلغاء الطلب؟</string>
+    <string name="DenyDialogMsg">هل ترغب فى رفض الطلب؟</string>
+    <string name="JobCompletedTitle">اكتمال العمل</string>
+    <string name="JobCompletedMsg">قام بإنهاء العمل</string>
+    <string name="JobStatusFail">فشل فى تحديث الطلب</string>
+    <string name="CancelBidding">إلغاء طلب الشغلانة</string>
+    <string name="YourBidding">السعر العروض :</string>
+    <string name="FailedToRemoveBidder">فشل فى إلغاء الطلب</string>
+    <string name="CancelBiddingMsg">هل ترغب فى إلغاء طلبك على الشغلانة؟</string>
+    <string name="RateTech">قم بتقييم الصنايعى</string>
+    <string name="writeComment">اكتب تعليقاً (اختيلرى)</string>
+    <string name="Submit">تم</string>
+    <string name="GiveRating">من فضلك اعطى تقييماً</string>
+    <string name="CommentFail">فشل فى رفع التعليق</string>
+    <string name="CommentLoadFail">فشل فى تحميل التعليقات</string>
+    <string name="DoneJobs">الشغلانات المنتهية</string>
+    <string name="WorkProfile">حساب العمل</string>
+    <string name="AddExtension">اضافة طلب زائد</string>
+    <string name="ExtensionDataMissing">اضف معلومات عن الشغلانة</string>
+    <string name="ExtendUploadFail">فشل فى رفع الطلب</string>
+    <string name="ExtendFetchFail">فشل فى تحميل الطلب</string>
+    <string name="Uploading">جارى التحميل ...</string>
+    <string name="EnterPrice">ادخل السعر المتوقع</string>
+    <string name="ExtensionUpdataFail">فشل فى تحديث السعر</string>
+    <string name="ExtensionRemoveFail">فشل فى مسح الطلب</string>
+    <string name="AddExtensionPrices">اضف سعرا للطلب الزائد</string>
+    <string name="Reply">قم بالرد</string>
+    <string name="GoogleSignIn">الدخول بحساب جوجل</string>
+    <string name="enterUserName">ادخل اسمك</string>
+    <string name="CreateAccFail">فشل فى عمل الحساب</string>
+    <string name="EnterEmail">ادخل بريدك الايكترونى</string>
+    <string name="AddReply">اكتب ردك</string>
+    <string name="Profile">الحساب</string>
+    <string name="Name">الاسم</string>
+    <string name="SelectLanguage">اختر اللغة</string>
+    <string name="PickImage">اختر صورة</string>
+    <string name="selectLocation">اختر عنوانك</string>
+    <string name="AddLocation">اضف عنواناً</string>
+
+    <string name="your_email">البريد الإلكترونى</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="enter_your_name">قم بإدخال اسمك</string>
+    <string name="your_name">اسمك</string>
+    <string name="enter_your_new_password">قم بإدخال كلمة السر الجديدة</string>
+    <string name="your_password">كلمة السر</string>
+    <string name="re_enter_your_new_password">قم بإعادة إدخال كلمة السر الجديدة</string>
+    <string name="enter_your_old_password">قم بإدخال كلمة السر القديمة</string>
+    <string name="enter_your_phone">قم بإدخال رقم هاتفك</string>
+    <string name="your_phone">رقم الهاتف</string>
+
+    <string name="select_job">من فضلك قم بإختيار صنعتك</string>
+</resources>

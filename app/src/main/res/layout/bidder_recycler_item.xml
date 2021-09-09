@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bidderItem_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="5dp"
+    android:paddingBottom="10dp"
+    android:background="@drawable/gardient_background">
+
+    <ImageView
+        android:id="@+id/bidderItem_tech_imageView"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rounded_outline"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/bidderItem_tech_imageLbl"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_blue"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="35sp"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/bidderItem_techName_lbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="TextView"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/bidderItem_tech_imageView"
+        app:layout_constraintTop_toTopOf="@+id/bidderItem_tech_imageView" />
+
+    <RatingBar
+        android:id="@+id/bidderItem_tech_rating"
+        style="?android:attr/ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="2.4"
+        app:layout_constraintStart_toStartOf="@+id/bidderItem_techName_lbl"
+        app:layout_constraintTop_toBottomOf="@+id/bidderItem_techName_lbl" />
+
+    <ImageButton
+        android:id="@+id/bidderItem_techChat_btn"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toStartOf="@+id/bidderItem_techName_lbl"
+        app:layout_constraintTop_toBottomOf="@+id/bidderItem_tech_rating"
+        app:srcCompat="@drawable/msg"
+        android:background="@null"
+        android:scaleType="fitCenter"/>
+
+    <ImageButton
+        android:id="@+id/bidderItem_techCall_btn"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="12dp"
+        app:layout_constraintStart_toEndOf="@+id/bidderItem_techChat_btn"
+        app:layout_constraintTop_toTopOf="@+id/bidderItem_techChat_btn"
+        app:srcCompat="@drawable/phone"
+        android:scaleType="fitCenter"
+        android:background="@null"/>
+
+    <TextView
+        android:id="@+id/bidderItem_confirmPriceTitle_lbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="@string/OfferedPrice"
+        app:layout_constraintBottom_toTopOf="@+id/bidderItem_confirmPrice_lbl"
+        app:layout_constraintStart_toStartOf="@+id/bidderItem_accept_btn" />
+
+    <TextView
+        android:id="@+id/bidderItem_confirmPrice_lbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="@+id/bidderItem_techCall_btn"
+        app:layout_constraintStart_toStartOf="@+id/bidderItem_confirmPriceTitle_lbl"
+        tools:text="999" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:text="@string/LE"
+        app:layout_constraintStart_toEndOf="@+id/bidderItem_confirmPrice_lbl"
+        app:layout_constraintTop_toTopOf="@+id/bidderItem_confirmPrice_lbl" />
+
+    <Button
+        android:id="@+id/bidderItem_accept_btn"
+        android:layout_width="100dp"
+        android:layout_height="39dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@color/turquoise"
+        android:text="@string/Accept"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/bidderItem_techName_lbl" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
